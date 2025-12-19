@@ -40,7 +40,7 @@ FakeNewsDetection/
 ## 📥 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/FakeNewsDetection.git
+git clone https://github.com/Atchuth01/FakeNewsDetection.git
 cd FakeNewsDetection
 ```
 
@@ -103,6 +103,6 @@ MIT License. See `LICENSE` for more details.
 ---
 
 ### 📬 Contact
-📩 Email: your.email@example.com  
-🔗 GitHub: [YourGitHubProfile](https://github.com/yourusername)
+📩 Email: Atchuth83.@gmail.com  
+🔗 GitHub: [Atchuth Vutukuri](https://github.com/Atchuth01)
 
