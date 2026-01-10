@@ -6,7 +6,7 @@ import fasttext
 def load_model():
     return fasttext.load_model("fasttext_model.bin")
 
-model = load_model()
+model = load_model() 
 
 # Streamlit UI
 st.title("📰 Fake News Detector")
